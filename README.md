@@ -30,4 +30,4 @@ Install the environment needed for this repository:
 
 `S2S/S2S_Cafe_Synthetic_Cafe_GitHub.ipynb` is the notebook to demonstrate the algorithms performance in two NREL buildings
 
-`S2S/S2S_Self_Defined_Data_GitHub.ipynb.ipynb` is the notebook to use your own data to run under this algorithm.
+`S2S/S2S_Self_Defined_Data_GitHub.ipynb.ipynb` is the notebook to use your own data to run under this algorithm. Follow the instructions in the notebook to correctly prepare your own data to be run successfully in the code.
