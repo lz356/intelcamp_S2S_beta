@@ -26,13 +26,8 @@ Install the environment needed for this repository:
 
 `$ pip install -e .[dev]`
 
-## Interview Procedures
+## Run Jupyter Notebooks
 
-1. Install Python environment correctly and run the Jupyter Notebook S2S/S2S_Using_Synthetic_Data_Interview.ipynb
-2. Answer the following question: 2.1 Please describe the mechanism of the algorithm and steps of the code. 2.2 How does the code deal with model uncertainties? 2.3 What can you do to improve the model accuracy?
-3. Coding Task 1: Modify/Tune the model parameter to achieve higher accuracy
-4. Coding Task 2: Apply better feature engineering to achieve higher accuracy
-4. Coding Task 3: Select a machine learning algorithm by yourself and compare its performance with this model.
-6. Write a short summary of your understanding of this code and what you learned from this practice
+`S2S/S2S_Cafe_Synthetic_Cafe_GitHub.ipynb` is the notebook to demonstrate the algorithms performance in two NREL buildings
 
-Follow the procedures above and save it as a new file named "S2S_Using_Synthetic_Data_Interview_Your Name.ipnyb". Send it back to Dr. Liang Zhang at liangzhang1@arizona.edu before deadline.
+`S2S/S2S_Self_Defined_Data_GitHub.ipynb.ipynb` is the notebook to use your own data to run under this algorithm. Follow the instructions in the notebook to correctly prepare your own data to be run successfully in the code.
